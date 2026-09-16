@@ -1,2 +1,3 @@
-# OLDJFCOUK GAMING FINAL
-Static GitHub Pages site. Upload index.html, styles.css, script.js and the assets folder to the repository root.
+# OLDJFCOUK Store
+
+Static GitHub Pages website. Upload all files and the assets folder to the repository root.
