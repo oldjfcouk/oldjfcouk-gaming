@@ -1,2 +1,2 @@
-# OLDJFCOUK Gaming Premium V3
-GitHub Pages ready. Prices are demo placeholders.
+# OLDJFCOUK Gaming Store V4
+GitHub Pages ready. Prices/reviews are demo placeholders until final commercial data is confirmed.
