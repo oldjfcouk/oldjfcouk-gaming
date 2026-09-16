@@ -1,2 +1,2 @@
-# OLDJFCOUK GAMING V2
-GitHub Pages ready. Images are embedded directly inside index.html, so there are no image paths to break.
+# OLDJFCOUK GAMING FINAL
+Static GitHub Pages site. Upload index.html, styles.css, script.js and the assets folder to the repository root.

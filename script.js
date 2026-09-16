@@ -1,1 +1,1 @@
-let n=0;document.querySelectorAll('.grid button').forEach(b=>b.onclick=()=>{n++;document.getElementById('count').textContent=n;let t=document.getElementById('toast');t.style.display='block';setTimeout(()=>t.style.display='none',1200)});
+let count=0;document.querySelectorAll('.add').forEach(b=>b.addEventListener('click',()=>{count++;document.getElementById('cartCount').textContent=count;const t=document.getElementById('toast');t.style.display='block';clearTimeout(window.tt);window.tt=setTimeout(()=>t.style.display='none',1200)}));
