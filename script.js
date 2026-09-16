@@ -1,0 +1,1 @@
+let n=0;document.querySelectorAll('.grid button').forEach(b=>b.onclick=()=>{n++;document.getElementById('count').textContent=n;let t=document.getElementById('toast');t.style.display='block';setTimeout(()=>t.style.display='none',1200)});
