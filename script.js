@@ -1,1 +1,1 @@
-let n=0;const c=document.getElementById('count'),t=document.getElementById('toast');document.querySelectorAll('article button').forEach(b=>b.onclick=()=>{c.textContent=++n;t.classList.add('show');setTimeout(()=>t.classList.remove('show'),900)});
+let count=0;const n=document.querySelector('#count'),toast=document.querySelector('#toast');document.querySelectorAll('.meta button').forEach(b=>b.onclick=()=>{n.textContent=++count;toast.classList.add('show');setTimeout(()=>toast.classList.remove('show'),1200)});
